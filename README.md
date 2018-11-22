@@ -1,2 +1,3 @@
-# assembly-language-workshop
-A workshop exploring assembly language
+# Assembly Language Workshop
+
+A workshop exploring assembly language concepts and concepts in Reverse Engineering.

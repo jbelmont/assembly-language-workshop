@@ -1,0 +1,24 @@
+{
+  "name": "assembly-language-workshop",
+  "version": "1.0.0",
+  "description": "A workshop exploring assembly language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbelmont/assembly-language-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbelmont/assembly-language-workshop/issues"
+  },
+  "homepage": "https://github.com/jbelmont/assembly-language-workshop#readme",
+  "dependencies": {
+    "gitbook": "^2.6.9",
+    "gitbook-cli": "^2.3.2"
+  }
+}
